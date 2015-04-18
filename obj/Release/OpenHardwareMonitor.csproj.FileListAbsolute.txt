@@ -1,0 +1,14 @@
+E:\Google Drive\Github\open-hardware-monitor\Bin\Release\OpenHardwareMonitor.exe.config
+E:\Google Drive\Github\open-hardware-monitor\Bin\Release\OpenHardwareMonitor.exe
+E:\Google Drive\Github\open-hardware-monitor\Bin\Release\Aga.Controls.dll
+E:\Google Drive\Github\open-hardware-monitor\Bin\Release\OxyPlot.dll
+E:\Google Drive\Github\open-hardware-monitor\Bin\Release\OxyPlot.WindowsForms.dll
+E:\Google Drive\Github\open-hardware-monitor\obj\Release\OpenHardwareMonitor.csprojResolveAssemblyReference.cache
+E:\Google Drive\Github\open-hardware-monitor\obj\Release\OpenHardwareMonitor.GUI.AboutBox.resources
+E:\Google Drive\Github\open-hardware-monitor\obj\Release\OpenHardwareMonitor.GUI.PortForm.resources
+E:\Google Drive\Github\open-hardware-monitor\obj\Release\OpenHardwareMonitor.GUI.ParameterForm.resources
+E:\Google Drive\Github\open-hardware-monitor\obj\Release\OpenHardwareMonitor.GUI.CrashForm.resources
+E:\Google Drive\Github\open-hardware-monitor\obj\Release\OpenHardwareMonitor.GUI.MainForm.resources
+E:\Google Drive\Github\open-hardware-monitor\obj\Release\OpenHardwareMonitor.GUI.ReportForm.resources
+E:\Google Drive\Github\open-hardware-monitor\obj\Release\OpenHardwareMonitor.csproj.GenerateResource.Cache
+E:\Google Drive\Github\open-hardware-monitor\obj\Release\OpenHardwareMonitor.exe

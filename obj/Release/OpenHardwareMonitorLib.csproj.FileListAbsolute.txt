@@ -1,0 +1,3 @@
+E:\Google Drive\Github\open-hardware-monitor\Bin\Release\OpenHardwareMonitorLib.dll
+E:\Google Drive\Github\open-hardware-monitor\obj\Release\OpenHardwareMonitorLib.csprojResolveAssemblyReference.cache
+E:\Google Drive\Github\open-hardware-monitor\obj\Release\OpenHardwareMonitorLib.dll

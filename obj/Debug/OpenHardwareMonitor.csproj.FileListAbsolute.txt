@@ -1,0 +1,17 @@
+E:\Google Drive\Github\open-hardware-monitor\Bin\Debug\OpenHardwareMonitor.exe.config
+E:\Google Drive\Github\open-hardware-monitor\Bin\Debug\OpenHardwareMonitor.exe
+E:\Google Drive\Github\open-hardware-monitor\Bin\Debug\OpenHardwareMonitor.pdb
+E:\Google Drive\Github\open-hardware-monitor\Bin\Debug\Aga.Controls.dll
+E:\Google Drive\Github\open-hardware-monitor\Bin\Debug\OxyPlot.dll
+E:\Google Drive\Github\open-hardware-monitor\Bin\Debug\OxyPlot.WindowsForms.dll
+E:\Google Drive\Github\open-hardware-monitor\Bin\Debug\OpenHardwareMonitorLib.pdb
+E:\Google Drive\Github\open-hardware-monitor\obj\Debug\OpenHardwareMonitor.csprojResolveAssemblyReference.cache
+E:\Google Drive\Github\open-hardware-monitor\obj\Debug\OpenHardwareMonitor.GUI.AboutBox.resources
+E:\Google Drive\Github\open-hardware-monitor\obj\Debug\OpenHardwareMonitor.GUI.PortForm.resources
+E:\Google Drive\Github\open-hardware-monitor\obj\Debug\OpenHardwareMonitor.GUI.ParameterForm.resources
+E:\Google Drive\Github\open-hardware-monitor\obj\Debug\OpenHardwareMonitor.GUI.CrashForm.resources
+E:\Google Drive\Github\open-hardware-monitor\obj\Debug\OpenHardwareMonitor.GUI.MainForm.resources
+E:\Google Drive\Github\open-hardware-monitor\obj\Debug\OpenHardwareMonitor.GUI.ReportForm.resources
+E:\Google Drive\Github\open-hardware-monitor\obj\Debug\OpenHardwareMonitor.csproj.GenerateResource.Cache
+E:\Google Drive\Github\open-hardware-monitor\obj\Debug\OpenHardwareMonitor.exe
+E:\Google Drive\Github\open-hardware-monitor\obj\Debug\OpenHardwareMonitor.pdb

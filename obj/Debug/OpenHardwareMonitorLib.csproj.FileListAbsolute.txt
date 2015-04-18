@@ -1,0 +1,4 @@
+E:\Google Drive\Github\open-hardware-monitor\Bin\Debug\OpenHardwareMonitorLib.dll
+E:\Google Drive\Github\open-hardware-monitor\Bin\Debug\OpenHardwareMonitorLib.pdb
+E:\Google Drive\Github\open-hardware-monitor\obj\Debug\OpenHardwareMonitorLib.dll
+E:\Google Drive\Github\open-hardware-monitor\obj\Debug\OpenHardwareMonitorLib.pdb
